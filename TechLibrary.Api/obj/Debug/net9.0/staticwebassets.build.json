@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vq743dreEtgRY9nKCzLZi5viUygQ+p+5Gj76h8TrkBU=",
+  "Source": "TechLibrary.Api",
+  "BasePath": "_content/TechLibrary.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

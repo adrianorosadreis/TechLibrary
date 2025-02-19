@@ -1,0 +1,11 @@
+C:\dev\TechLibrary\TechLibrary.Exception\bin\Debug\net9.0\TechLibrary.Exception.deps.json
+C:\dev\TechLibrary\TechLibrary.Exception\bin\Debug\net9.0\TechLibrary.Exception.dll
+C:\dev\TechLibrary\TechLibrary.Exception\bin\Debug\net9.0\TechLibrary.Exception.pdb
+C:\dev\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\TechLibrary.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\TechLibrary.Exception.AssemblyInfoInputs.cache
+C:\dev\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\TechLibrary.Exception.AssemblyInfo.cs
+C:\dev\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\TechLibrary.Exception.csproj.CoreCompileInputs.cache
+C:\dev\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\TechLibrary.Exception.dll
+C:\dev\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\refint\TechLibrary.Exception.dll
+C:\dev\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\TechLibrary.Exception.pdb
+C:\dev\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\ref\TechLibrary.Exception.dll

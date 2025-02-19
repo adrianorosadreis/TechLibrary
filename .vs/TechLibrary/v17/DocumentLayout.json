@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\TechLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6B889E-58B7-429B-8975-E7CE0CA13C8C}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\dev\\techlibrary\\techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6B889E-58B7-429B-8975-E7CE0CA13C8C}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6B889E-58B7-429B-8975-E7CE0CA13C8C}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\dev\\techlibrary\\techlibrary.api\\usecases\\users\\registereduserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6B889E-58B7-429B-8975-E7CE0CA13C8C}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\users\\registereduserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B82C0F8-6463-4048-BF7E-EF0EC94D6EB1}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\dev\\techlibrary\\techlibrary.communication\\requests\\requestuserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B82C0F8-6463-4048-BF7E-EF0EC94D6EB1}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\requests\\requestuserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6B889E-58B7-429B-8975-E7CE0CA13C8C}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\dev\\techlibrary\\techlibrary.api\\infrastructure\\techlibrarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6B889E-58B7-429B-8975-E7CE0CA13C8C}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\infrastructure\\techlibrarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6B889E-58B7-429B-8975-E7CE0CA13C8C}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\dev\\techlibrary\\techlibrary.api\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6B889E-58B7-429B-8975-E7CE0CA13C8C}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B82C0F8-6463-4048-BF7E-EF0EC94D6EB1}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\dev\\techlibrary\\techlibrary.communication\\responses\\responseerrormessagejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B82C0F8-6463-4048-BF7E-EF0EC94D6EB1}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\responses\\responseerrormessagejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B82C0F8-6463-4048-BF7E-EF0EC94D6EB1}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\dev\\techlibrary\\techlibrary.communication\\responses\\responseregistereduserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B82C0F8-6463-4048-BF7E-EF0EC94D6EB1}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\responses\\responseregistereduserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5EF804-61A2-4A49-BCB8-56B4B3B4EB6A}|TechLibrary.Exception\\TechLibrary.Exception.csproj|c:\\dev\\techlibrary\\techlibrary.exception\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5EF804-61A2-4A49-BCB8-56B4B3B4EB6A}|TechLibrary.Exception\\TechLibrary.Exception.csproj|solutionrelative:techlibrary.exception\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5EF804-61A2-4A49-BCB8-56B4B3B4EB6A}|TechLibrary.Exception\\TechLibrary.Exception.csproj|c:\\dev\\techlibrary\\techlibrary.exception\\techlibraryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5EF804-61A2-4A49-BCB8-56B4B3B4EB6A}|TechLibrary.Exception\\TechLibrary.Exception.csproj|solutionrelative:techlibrary.exception\\techlibraryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6B889E-58B7-429B-8975-E7CE0CA13C8C}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\dev\\techlibrary\\techlibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6B889E-58B7-429B-8975-E7CE0CA13C8C}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6B889E-58B7-429B-8975-E7CE0CA13C8C}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\dev\\techlibrary\\techlibrary.api\\usecases\\users\\register\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6B889E-58B7-429B-8975-E7CE0CA13C8C}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\users\\register\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6B889E-58B7-429B-8975-E7CE0CA13C8C}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\dev\\techlibrary\\techlibrary.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A6B889E-58B7-429B-8975-E7CE0CA13C8C}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\dev\\TechLibrary\\TechLibrary.Api\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\dev\\TechLibrary\\TechLibrary.Api\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:48:48.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TechLibraryDbContext.cs",
+              "DocumentMoniker": "C:\\dev\\TechLibrary\\TechLibrary.Api\\Infrastructure\\TechLibraryDbContext.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Infrastructure\\TechLibraryDbContext.cs",
+              "ToolTip": "C:\\dev\\TechLibrary\\TechLibrary.Api\\Infrastructure\\TechLibraryDbContext.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Infrastructure\\TechLibraryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:45:24.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseErrorMessageJson.cs",
+              "DocumentMoniker": "C:\\dev\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseErrorMessageJson.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Communication\\Responses\\ResponseErrorMessageJson.cs",
+              "ToolTip": "C:\\dev\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseErrorMessageJson.cs",
+              "RelativeToolTip": "TechLibrary.Communication\\Responses\\ResponseErrorMessageJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:29:22.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorOnValidationException.cs",
+              "DocumentMoniker": "C:\\dev\\TechLibrary\\TechLibrary.Exception\\ErrorOnValidationException.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Exception\\ErrorOnValidationException.cs",
+              "ToolTip": "C:\\dev\\TechLibrary\\TechLibrary.Exception\\ErrorOnValidationException.cs",
+              "RelativeToolTip": "TechLibrary.Exception\\ErrorOnValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:20:29.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TechLibraryException.cs",
+              "DocumentMoniker": "C:\\dev\\TechLibrary\\TechLibrary.Exception\\TechLibraryException.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Exception\\TechLibraryException.cs",
+              "ToolTip": "C:\\dev\\TechLibrary\\TechLibrary.Exception\\TechLibraryException.cs",
+              "RelativeToolTip": "TechLibrary.Exception\\TechLibraryException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:18:04.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterUserValidator.cs",
+              "DocumentMoniker": "C:\\dev\\TechLibrary\\TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
+              "ToolTip": "C:\\dev\\TechLibrary\\TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
+              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:02:04.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisteredUserUseCase.cs",
+              "DocumentMoniker": "C:\\dev\\TechLibrary\\TechLibrary.Api\\UseCases\\Users\\RegisteredUserUseCase.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Users\\RegisteredUserUseCase.cs",
+              "ToolTip": "C:\\dev\\TechLibrary\\TechLibrary.Api\\UseCases\\Users\\RegisteredUserUseCase.cs",
+              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Users\\RegisteredUserUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:52:42.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseRegisteredUserJson.cs",
+              "DocumentMoniker": "C:\\dev\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseRegisteredUserJson.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Communication\\Responses\\ResponseRegisteredUserJson.cs",
+              "ToolTip": "C:\\dev\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseRegisteredUserJson.cs",
+              "RelativeToolTip": "TechLibrary.Communication\\Responses\\ResponseRegisteredUserJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:47:37.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestUserJson.cs",
+              "DocumentMoniker": "C:\\dev\\TechLibrary\\TechLibrary.Communication\\Requests\\RequestUserJson.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Communication\\Requests\\RequestUserJson.cs",
+              "ToolTip": "C:\\dev\\TechLibrary\\TechLibrary.Communication\\Requests\\RequestUserJson.cs",
+              "RelativeToolTip": "TechLibrary.Communication\\Requests\\RequestUserJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:43:19.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\dev\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\dev\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:34:43.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\dev\\TechLibrary\\TechLibrary.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\dev\\TechLibrary\\TechLibrary.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TechLibrary.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T13:49:32.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\TechLibrary\\TechLibrary.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Program.cs",
+              "ToolTip": "C:\\dev\\TechLibrary\\TechLibrary.Api\\Program.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:46:58.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
