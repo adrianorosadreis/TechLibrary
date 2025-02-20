@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PrSM5hC8nK4=",
+  "dgSpecHash": "UEiLu+QmWwg=",
   "success": true,
   "projectFilePath": "C:\\dev\\TechLibrary\\TechLibrary.Api\\TechLibrary.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.2\\microsoft.aspnetcore.authentication.jwtbearer.9.0.2.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.2\\microsoft.data.sqlite.core.9.0.2.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.2\\microsoft.entityframeworkcore.9.0.2.nupkg.sha512",
@@ -28,6 +29,8 @@
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.5.0\\microsoft.identitymodel.abstractions.8.5.0.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.5.0\\microsoft.identitymodel.jsonwebtokens.8.5.0.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.identitymodel.logging\\8.5.0\\microsoft.identitymodel.logging.8.5.0.nupkg.sha512",
+    "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.identitymodel.protocols\\8.0.1\\microsoft.identitymodel.protocols.8.0.1.nupkg.sha512",
+    "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\8.0.1\\microsoft.identitymodel.protocols.openidconnect.8.0.1.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.5.0\\microsoft.identitymodel.tokens.8.5.0.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",

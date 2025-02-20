@@ -4,7 +4,8 @@ namespace TechLibrary.Exception
 {
     public class InvalidLoginException : TechLibraryException
     {
-        public override List<string> GetErrorMessages() => ["Invalid login"];
-        public override HttpStatusCode GetStatusCode() => HttpStatusCode.BadRequest;
+        public InvalidLoginException() : base("Invalid login.") { }
+        public override List<string> GetErrorMessages() => [Message];
+        public override HttpStatusCode GetStatusCode() => HttpStatusCode.Unauthorized;
     }
 }
