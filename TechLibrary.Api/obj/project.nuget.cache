@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Fe140RB+oYo=",
+  "dgSpecHash": "PrSM5hC8nK4=",
   "success": true,
   "projectFilePath": "C:\\dev\\TechLibrary\\TechLibrary.Api\\TechLibrary.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Adriano Rosa\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.2\\microsoft.data.sqlite.core.9.0.2.nupkg.sha512",
@@ -24,6 +25,10 @@
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.2\\microsoft.extensions.logging.abstractions.9.0.2.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.extensions.options\\9.0.2\\microsoft.extensions.options.9.0.2.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.2\\microsoft.extensions.primitives.9.0.2.nupkg.sha512",
+    "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.5.0\\microsoft.identitymodel.abstractions.8.5.0.nupkg.sha512",
+    "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.5.0\\microsoft.identitymodel.jsonwebtokens.8.5.0.nupkg.sha512",
+    "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.identitymodel.logging\\8.5.0\\microsoft.identitymodel.logging.8.5.0.nupkg.sha512",
+    "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.5.0\\microsoft.identitymodel.tokens.8.5.0.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
@@ -33,6 +38,7 @@
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.2.0\\swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.2.0\\swashbuckle.aspnetcore.swaggergen.7.2.0.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.2.0\\swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512",
+    "C:\\Users\\Adriano Rosa\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.5.0\\system.identitymodel.tokens.jwt.8.5.0.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\Adriano Rosa\\.nuget\\packages\\system.text.json\\9.0.2\\system.text.json.9.0.2.nupkg.sha512"
   ],

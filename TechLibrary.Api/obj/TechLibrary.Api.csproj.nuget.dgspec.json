@@ -57,6 +57,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[11.11.0, )"
@@ -73,9 +77,17 @@
               "target": "Package",
               "version": "[9.0.2, )"
             },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.5.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[7.2.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.5.0, )"
             }
           },
           "imports": [

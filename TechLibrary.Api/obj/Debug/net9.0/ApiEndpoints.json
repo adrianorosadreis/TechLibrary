@@ -1,7 +1,42 @@
 [
   {
+    "ContainingType": "TechLibrary.Api.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TechLibrary.Communication.Requests.RequestLoginJson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TechLibrary.Communication.Responses.ResponseRegisteredUserJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "TechLibrary.Communication.Responses.ResponseErrorMessageJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 401
+      }
+    ]
+  },
+  {
     "ContainingType": "TechLibrary.Api.Controllers.UsersController",
-    "Method": "Create",
+    "Method": "Register",
     "RelativePath": "Users",
     "HttpMethod": "POST",
     "IsController": true,
@@ -33,25 +68,5 @@
         "StatusCode": 400
       }
     ]
-  },
-  {
-    "ContainingType": "TechLibrary.Api.Controllers.UsersController",
-    "Method": "Get",
-    "RelativePath": "Users",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "TechLibrary.Api.Controllers.UsersController",
-    "Method": "Update",
-    "RelativePath": "Users",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
   }
 ]

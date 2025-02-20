@@ -80,3 +80,10 @@ C:\dev\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\runtimes\win-arm\native\e_sq
 C:\dev\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\dev\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\dev\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\dev\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\dev\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.sourcelink.json
+C:\dev\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\dev\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dev\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\dev\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\dev\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll

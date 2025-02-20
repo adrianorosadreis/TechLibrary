@@ -9,3 +9,4 @@ C:\dev\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\TechLibrary.Exception.
 C:\dev\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\refint\TechLibrary.Exception.dll
 C:\dev\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\TechLibrary.Exception.pdb
 C:\dev\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\ref\TechLibrary.Exception.dll
+C:\dev\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\TechLibrary.Exception.sourcelink.json
